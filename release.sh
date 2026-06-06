@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -x -e
-
+#test
 strings=(
     "red"
     "orange"

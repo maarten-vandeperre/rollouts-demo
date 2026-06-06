@@ -2,7 +2,7 @@ COLOR?=
 IMAGE_NAMESPACE?=
 ERROR_RATE?=
 IMAGE_TAG?=latest
-
+# test
 ifneq (${COLOR},)
 IMAGE_TAG=${COLOR}
 endif
