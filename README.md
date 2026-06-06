@@ -5,7 +5,7 @@ various deployment strategies and progressive delivery features of Argo Rollouts
 
 ![img](./demo.png)
 
-## Examples
+## Examples 
 
 The following examples are provided:
 
